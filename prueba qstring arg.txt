@@ -1,0 +1,3 @@
+
+
+QString(\"insert %0,%0,%0\").arg(\"helmer\").arg(\"titere\").arg(\"oswaldo\")
